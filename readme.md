@@ -2,7 +2,6 @@
 
 A powerful Chrome extension that uses Google's Gemini AI to generate concise bullet-point summaries of any webpage. Perfect for quick research, reading articles, and getting key information from long content.
 
-![Webpage Summarizer Demo](demo-image-link.png)
 
 ## ✨ Features
 
@@ -29,7 +28,7 @@ A powerful Chrome extension that uses Google's Gemini AI to generate concise bul
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/webpage-summarizer.git
+   git clone https://github.com/mdsahban/webpage-summarizer.git
    cd webpage-summarizer
    ```
 
@@ -143,7 +142,7 @@ Having issues? Let's solve them:
 
 1. 🐛 Check the issues page
 2. 📝 Create a new issue
-3. 📧 Contact via email: your.email@example.com
+3. 📧 Contact via email:mdsahban28@duck.com
 
 ## 🔜 Roadmap
 
