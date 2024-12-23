@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Web Page Summarizer",
+    "version": "1.0",
+    "description": "Summarizes web pages using the Gemini API",
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ],
+    "host_permissions": [
+        "https://generativelanguage.googleapis.com/*"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
