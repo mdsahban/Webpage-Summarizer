@@ -50,7 +50,10 @@ A powerful Chrome extension that uses Google's Gemini AI to generate concise bul
 2. Press the "Summarize" button
 3. Get your summary in seconds!
 
-![Usage Example](https://drive.google.com/file/d/1u52wABAknt6GPlvFEzBFWQqForXk9dOp/view?usp=sharing)
+# Usage Example
+
+https://github.com/user-attachments/assets/686bd6fe-6282-4b8a-8a7e-26986f2d2604
+
 
 ## 🏗️ Project Structure
 
